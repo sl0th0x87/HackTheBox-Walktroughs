@@ -1,9 +1,10 @@
 ---
-Title: Meow Walktrough
+Title: Meow Walktrough\
 Author: sl0th0x87
 Date: 2022/01/10
 Tags: Linux, Network, Account Missconfiguration
 Tools: nmap
+Difficulty: very easy
 ---
 # Meow
 
@@ -11,7 +12,6 @@ Tools: nmap
 * IP Attack Machine: 10.10.14.39
 * IP Target Machine: 10.129.1.17
 * Operating System: Linux
-* Difficulty: very easy
 
 ## NMAP scan
 
