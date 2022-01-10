@@ -59,6 +59,8 @@ So connect to the server with FTP
 Set a username 'anonymous' and no password
 ```bash
 ftp 10.129.139.214
+```
+```bash
 Connected to 10.129.139.214.
 220 (vsFTPd 3.0.3)
 Name (10.129.139.214:sl0th0x87): anonymous
@@ -72,6 +74,8 @@ Using binary mode to transfer files.
 Show all files in the directory
 ```bash
 ftp> ls
+```
+```bash
 229 Entering Extended Passive Mode (|||24622|)
 150 Here comes the directory listing.
 -rw-r--r--    1 0        0              32 Jun 04  2021 flag.txt
@@ -81,6 +85,8 @@ ftp> ls
 Download the flag.txt file to your local computer
 ```bash
 ftp> get flag.txt
+```
+```bash
 local: flag.txt remote: flag.txt
 229 Entering Extended Passive Mode (|||45685|)
 150 Opening BINARY mode data connection for flag.txt (32 bytes).
