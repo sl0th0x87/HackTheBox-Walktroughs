@@ -1,5 +1,5 @@
 ---
-Title: Meow Walktrough\
+Title: Meow Walktrough
 Author: sl0th0x87
 Date: 2022/01/10
 Tags: Linux, Network, Account Missconfiguration
