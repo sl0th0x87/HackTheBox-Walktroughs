@@ -1,10 +1,10 @@
 ---
 Title: Meow
-Author: sl0th0x87
-Date: 2022/01/10
+Difficulty: very easy
 Tags: Linux, Network, Account Missconfiguration
 Tools: nmap
-Difficulty: very easy
+Author: sl0th0x87
+Date: 2022/01/10
 ---
 # Meow
 
